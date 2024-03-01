@@ -1,0 +1,3 @@
+Name: Nathan, Height: 2.0, Weight: 20.0
+Name: Cadence, Height: 10.0, Weight: 20.0
+Name: Walle, Height: 10.0, Weight: 20.0
